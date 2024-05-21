@@ -1,13 +1,11 @@
-# Hardware-Interfacing
-
 ## Opdracht 1
 
 ### Benodigdheden
 - Arduino
 - Breadboard
-- 4 kabels
+- 4 Cables
 - 2 LEDs
-- 2 220 OHM weerstanden
+- 2 220 Ohm Resistors
 
 ### Schets
 
@@ -24,9 +22,9 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/966fbb5c-3698-4b
 ### Benodigdheden
 - Arduino
 - Breadboard
-- 8 220 OHM weerstanden
+- 8 220 Ohm Resistors
 - 8 LEDs
-- 10 kabels
+- 10 Cables
 
 ### Schets
 
@@ -43,10 +41,10 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/11c62a3e-a9df-42
 - Arduino
 - Breadboard
 - 2 LEDs
-- 1 knop
-- 2 220 OHM weerstanden
-- 1 1k OHM weerstand
-- 6 kabels
+- 1 Button
+- 2 220 Ohm Resistors
+- 1 1k Ohm Resistor
+- 6 Cable
 
 ### Schets
 
@@ -59,10 +57,21 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/a19cc6fe-966e-46
 ## Opdracht 4
 
 ### Benodigdheden
+- Arduino
+- Breadboard
+- 6 Leds
+- 6 220 Ohm Resistors
+- 1 Potentiometer
+- 11 Cables
 
 ### Schets
 
+![image](https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/08aa9e77-0b0f-4620-bd99-8263cddaecc8)
+
 ### Demo
+
+https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/03f2c038-776b-4723-9720-d2c6376c041c
+
 
 ## Opdracht 5
 
