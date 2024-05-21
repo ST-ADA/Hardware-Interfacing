@@ -28,11 +28,15 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/966fbb5c-3698-4b
 - 8 220 OHM weerstanden
 - 8 leds
 - 10 kabels
-- 
 
 ### Schets
 
+![image](https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/3edef6ca-ebef-4fa0-9311-05eef4cd7073)
+
 ### Demo
+
+https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/11c62a3e-a9df-42d3-9edd-ba9039e3616b
+
 
 ## Opdracht 3
 
