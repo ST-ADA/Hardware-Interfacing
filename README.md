@@ -1,12 +1,12 @@
 # Hardware-Interfacing
 
-##Opdracht 1
+## Opdracht 1
 
-###Benodigdheden
+### Benodigdheden
 
-###Schets
+### Schets
 
-###Demo
+### Demo
 
 ##Opdracht 2
 
