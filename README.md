@@ -76,10 +76,20 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/03f2c038-776b-47
 ## Opdracht 5
 
 ### Benodigdheden
-
+- Arduino
+- Breadboard
+- 2 Buttons
+- 2 1k Ohm Resistors
+- 1 Servomotor
+- 7 Cables
+- 
 ### Schets
 
+![image](https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/8f9649f4-5e67-4c9b-816d-d56884babeee)
+
 ### Demo
+
+https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/e9809cfb-62a8-44bd-870f-dc6472033ad1
 
 ## Opdracht 6
 
