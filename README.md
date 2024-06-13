@@ -43,7 +43,7 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/11c62a3e-a9df-42
 - 2 LEDs
 - 1 Button
 - 2 220 Ohm Resistors
-- 1 1k Ohm Resistor
+- 1 10k Ohm Resistor
 - 6 Cable
 
 ### Schets
@@ -79,7 +79,7 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/03f2c038-776b-47
 - Arduino
 - Breadboard
 - 2 Buttons
-- 2 1k Ohm Resistors
+- 2 10k Ohm Resistors
 - 1 Servomotor
 - 7 Cables
 
@@ -97,7 +97,7 @@ https://github.com/ST-ADA/Hardware-Interfacing/assets/150329169/e9809cfb-62a8-44
 - Arduino
 - Breadboard
 - 2 Buttons
-- 2 1k Ohm Resistors
+- 2 10k Ohm Resistors
 - 1 LCD I2C
 - 10 Cables
 ### Schets
